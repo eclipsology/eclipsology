@@ -34,7 +34,7 @@
 </a>
 </h5>
 
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=EclipseDevelopment.EclipseDevelopment">
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=EclipseDevelopment.EclipseDevelopment">
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
