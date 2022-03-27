@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">Languages</p>
-<a href="https://www.python.org/" align="center">
-<img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python Symbol"></img>
+<a href="https://www.python.org/">
+<img align="center" src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python Symbol"></img>
 </a>
-<a href="https://www.javascript.com/" align="center">
-<img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" alt="JavaScript Symbol"></img>
+<a href="https://www.javascript.com/">
+<img align="center" src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" alt="JavaScript Symbol"></img>
 </a>
-<a href="https://www.typescriptlang.org/" align="center">
-<img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript" alt="TypeScript Symbol"></img>
+<a href="https://www.typescriptlang.org/">
+<img align="center" src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript" alt="TypeScript Symbol"></img>
 </a>
 
 ### Technologies
