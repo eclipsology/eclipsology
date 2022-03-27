@@ -33,9 +33,6 @@
 <img align="center" src="https://img.shields.io/badge/-React-000?&logo=React" alt="ReactJS Symbol"></img>
 </a>
 </h5>
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=EclipseDevelopment.EclipseDevelopment">
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
