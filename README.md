@@ -1,8 +1,7 @@
 <p align="center">
 <img src="https://github.com/EclipseDevelopment/EclipseDevelopment/blob/main/OtherBanner.gif" alt="Eclipse Certification Banner" />
 </p>
-
-<p align="center">Languages</p>
+<h1 align="center">Languages</h1>
 <h5 align="center">
 <a align="center" href="https://www.python.org/">
 <img align="center" src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python Symbol"></img>
@@ -15,13 +14,25 @@
 </a>
 </h5>
 
-### Technologies
+<h1 align="center">Technologies</h1>
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
+<h5 align="center">
+<a align="center" href="https://www.aws.amazon.com/">
+<img align="center" src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90" alt="AWS Symbol"></img>
+</a>
+<a align="center" href="https://www.docker.com/">
+<img align="center" src="https://img.shields.io/badge/-Docker-000?&logo=Docker" alt="Docker Symbol"></img>
+</a>
+<a align="center" href="https://www.linux.org/">
+<img align="center" src="https://img.shields.io/badge/-Linux-000?&logo=Linux" alt="Linux Symbol"></img>
+</a>
+<a align="center" href="https://nodejs.org/en/">
+<img align="center" src="https://img.shields.io/badge/-Node.js-000?&logo=node.js" alt="NodeJS Symbol"></img>
+</a>
+<a align="center" href="https://reactjs.org/">
+<img align="center" src="https://img.shields.io/badge/-React-000?&logo=React" alt="ReactJS Symbol"></img>
+</a>
+</h5>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=EclipseDevelopment.EclipseDevelopment">
 
