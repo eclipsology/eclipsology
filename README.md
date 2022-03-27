@@ -1,5 +1,6 @@
+<p align="center">
 [![](https://github.com/EclipseDevelopment/EclipseDevelopment/blob/main/OtherBanner.gif)](https://www.nohello.net/)
-
+</p>
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
