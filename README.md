@@ -1,5 +1,5 @@
 <p align="center">
-[![](https://github.com/EclipseDevelopment/EclipseDevelopment/blob/main/OtherBanner.gif)](https://www.nohello.net/)
+<img src="https://github.com/EclipseDevelopment/EclipseDevelopment/blob/main/OtherBanner.gif" alt="Eclipse Certification Banner" />
 </p>
 ### Languages
 
