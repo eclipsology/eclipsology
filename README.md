@@ -1,11 +1,17 @@
 <p align="center">
 <img src="https://github.com/EclipseDevelopment/EclipseDevelopment/blob/main/OtherBanner.gif" alt="Eclipse Certification Banner" />
 </p>
-### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+<p align="center">Languages</p>
+<a href="https://www.python.org/" align="center">
+<img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python Symbol"></img>
+</a>
+<a href="https://www.javascript.com/" align="center">
+<img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" alt="JavaScript Symbol"></img>
+</a>
+<a href="https://www.typescriptlang.org/" align="center">
+<img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript" alt="TypeScript Symbol"></img>
+</a>
 
 ### Technologies
 
