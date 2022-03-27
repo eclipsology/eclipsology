@@ -1,4 +1,4 @@
-[![](https://github.com/EclipseDevelopment/EclipseDevelopment/blob/main/standard.gif)](https://www.adamalston.com/)
+[![](https://github.com/EclipseDevelopment/EclipseDevelopment/blob/main/OtherBanner.gif)](https://www.nohello.net/)
 
 ### Languages
 
