@@ -12,6 +12,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers exploit critical VMware flaw to drop ransomware and miners](https://dev.to/matthewagoldberg/hackers-exploit-critical-vmware-flaw-to-drop-ransomware-and-miners-4n4m)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
