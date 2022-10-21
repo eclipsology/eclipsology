@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on: [FTC - Team RNDOPS](https://www.firstinspires.org/robotics/ftc)
 
-- 🌱 I’m currently learning **Cybersecurity, Data Science, Machine Learning, Advanced Python, Ethical Hacking**
+- 🌱 I’m currently learning: Cybersecurity, Data Science, Machine Learning, Advanced Python, Ethical Hacking
 
-- 👨‍💻 All of my projects are available at [https://github.com/matthewagoldberg?tab=repositories](https://github.com/matthewagoldberg?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/matthewagoldberg?tab=repositories](https://github.com/matthewagoldberg?tab=repositories)
 
-- ⚡ Fun fact **I have been writing software since I was 10 years old**
+- ⚡ Fun fact: I have been writing software since I was 10 years old
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
