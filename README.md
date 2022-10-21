@@ -10,6 +10,7 @@
 - ⚡ Fun fact: I have been writing software since I was 10 years old
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
