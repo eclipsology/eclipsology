@@ -1,5 +1,4 @@
 <p align="center">
-<img src="https://github.com/EclipseDevelopment/EclipseDevelopment/blob/main/OtherBanner.gif" alt="Eclipse Certification Banner" />
 </p>
 <h1 align="center">Languages</h1>
 <h5 align="center">
