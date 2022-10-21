@@ -16,9 +16,6 @@
 <h1 align="center">Technologies</h1>
 
 <h5 align="center">
-<a align="center" href="https://www.aws.amazon.com/">
-<img align="center" src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90" alt="AWS Symbol"></img>
-</a>
 <a align="center" href="https://www.docker.com/">
 <img align="center" src="https://img.shields.io/badge/-Docker-000?&logo=Docker" alt="Docker Symbol"></img>
 </a>
@@ -27,9 +24,6 @@
 </a>
 <a align="center" href="https://nodejs.org/en/">
 <img align="center" src="https://img.shields.io/badge/-Node.js-000?&logo=node.js" alt="NodeJS Symbol"></img>
-</a>
-<a align="center" href="https://reactjs.org/">
-<img align="center" src="https://img.shields.io/badge/-React-000?&logo=React" alt="ReactJS Symbol"></img>
 </a>
 </h5>
 <h2 align="center">⚡ Stats ⚡</h2>
